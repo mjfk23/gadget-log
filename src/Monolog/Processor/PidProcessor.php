@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Gadget\LogMonolog\Processor;
+namespace Gadget\Log\Monolog\Processor;
 
 use Monolog\Attribute\AsMonologProcessor;
 use Monolog\LogRecord;
