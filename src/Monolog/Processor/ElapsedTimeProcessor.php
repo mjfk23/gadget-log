@@ -4,7 +4,7 @@ declare(strict_types=1);
 
 namespace Gadget\Log\Monolog\Processor;
 
-use Gadget\Time\Timer;
+use Gadget\Util\Timer;
 use Monolog\Attribute\AsMonologProcessor;
 use Monolog\LogRecord;
 use Monolog\Processor\ProcessorInterface;
